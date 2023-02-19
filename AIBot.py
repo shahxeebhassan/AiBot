@@ -17,7 +17,7 @@ r = sr.Recognizer()
 
 # Function to convert text to
 # speech
-openai.api_key = "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"
+openai.api_key = 
 model = "text-davinci-003"
 translator = Translator()
 
